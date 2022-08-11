@@ -1,0 +1,237 @@
+.topbody{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+
+.headerimage{
+
+}
+
+.headertext{
+    color:  hsl(240, 75%, 98%);
+}
+
+.allyourfiles{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+}
+
+.allyourfilestext{
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+}
+
+.allyourfilesimage{
+    max-width:500px;
+}
+
+.allyourfilesintro{
+    color: hsl(243, 87%, 12%);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.allyourfilessummary{
+    color:  hsl(0, 0%, 75%);
+    font-family: serif;
+}
+
+.doubleboxes{
+    display: flex;
+    flex-direction: row;
+}
+
+.boxone{
+    
+}
+
+.box2{
+    border: 1px;
+    border-style: solid;
+    background-color: blue;
+    color: white;
+    margin-left: 10px;
+    padding: 2px;
+    width: 160px;
+    text-align: center;
+}
+
+.stayproductive{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+}
+
+.stayproductivetext{
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+}
+
+.stayproductiveintro{
+    color: hsl(243, 87%, 12%);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.stayproductivesummary{
+    color:  hsl(0, 0%, 75%);
+    font-family: serif;
+}
+
+.learnaboutfylo{
+    display: flex;
+    flex-direction: row;
+}
+
+.learnaboutfylotext{
+
+}
+
+.learnaboutfyloimage{
+    
+}
+
+.testimony{
+    border: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
+    background-color: rgb(247, 247, 243);
+    width: 300px;
+    padding: 25px;
+    margin-top: 15px;
+}
+
+.testimonytext{
+    color:lightslategray;
+    font-family: serif; 
+}
+.testimonyend{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.testimonynametag{
+    hsl(243, 87%, 12%)
+    font-family: serif; 
+}
+
+.testimonyimage{
+    border-radius: 50px;
+    max-width: 40px;
+    height: 45px;
+    padding-top: 20px;
+}
+
+.stayproductiveimage{
+    max-width:500px;
+}
+
+.body{
+    background-color:  hsl(238, 22%, 44%);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.earlyaccess{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+
+.earlyaccesstext{
+    display: flex;
+    flex-direction: column;
+    color:  hsl(240, 75%, 98%);
+}
+
+.allyourfilessummary{
+    color:  hsl(0, 0%, 75%);
+    font-family: serif;
+}
+
+.getstarted{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.getstartedbox{
+    
+}
+
+.getstartedbox2{
+    border: 1px;
+    border-color: blue;
+    border-style: solid;
+    background-color: blue;
+    color: white;
+    margin-top: 7px;
+    padding: 2px;
+    width: 160px;
+    text-align: center;
+}
+
+.lastbody{
+    background-color:  hsl(243, 87%, 12%);
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+    margin-top: -10px;
+}
+
+.finallogo{
+    margin-top: 10px;
+    color: white;
+}
+
+.contactcard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+}
+
+.phone{
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    height: auto;
+}
+
+.email{
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    height: auto;
+}
+
+.jobs{
+    display: flex;
+    flex-direction: column;
+}
+
+.terms{
+    display: flex;
+    flex-direction: column;
+}
+
+.socialmediaicons{
+    display: flex;
+    flex-direction: row;
+}
